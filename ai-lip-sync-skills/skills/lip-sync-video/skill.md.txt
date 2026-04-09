@@ -3,7 +3,7 @@
 name: lip-sync-video
 description: AI 对口型视频生成，驱动视频唇形匹配音频，支持云端渲染
 version: 1.0.0
-author: ahuahua
+author: zhouahua
 license: MIT
 compatibility: cursor, copilot, claude-code  # 关键！
 tags: [video, ai, lip-sync, dub, 视频生成]
